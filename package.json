@@ -52,6 +52,9 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.38.0"
+    "@finsweet/ts-utils": "^0.38.0",
+    "gsap": "^3.11.4",
+    "locomotive-scroll": "^4.1.4",
+    "splitting": "^1.0.6"
   }
 }
